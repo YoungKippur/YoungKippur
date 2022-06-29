@@ -1,5 +1,5 @@
 ### Hi there ༼ つ ◕_◕ ༽つ
-![Anime-Girl-With-Brown-Hair-PNG-Background](https://user-images.githubusercontent.com/82680610/176461422-b6a05a97-6e16-43f9-b136-a1f56c3c7b74.png)
+![anime-girl](https://user-images.githubusercontent.com/82680610/176461717-5f20a9a5-ed4f-43dc-88f9-c8a2b696db6b.gif)
 
 Python Lover (❁´◡`❁)
 
