@@ -1,5 +1,6 @@
 ### Hi there ༼ つ ◕_◕ ༽つ
-![anime-girl](https://user-images.githubusercontent.com/82680610/176461717-5f20a9a5-ed4f-43dc-88f9-c8a2b696db6b.gif)
+![anya-forger-featured-640x360-1](https://user-images.githubusercontent.com/82680610/176462878-957538d7-f6fd-4bba-bbc4-95cc78f402ae.jpg)
+
 
 Python Lover (❁´◡`❁)
 
