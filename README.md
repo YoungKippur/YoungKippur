@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there ༼ つ ◕_◕ ༽つ
 
+# Python Lover (❁´◡`❁)
+
+* I’m currently working on my [CHESS]() repo.
+
+*  How to reach me: (Working on a portfolio) 
 <!--
 **YoungKippur/YoungKippur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
