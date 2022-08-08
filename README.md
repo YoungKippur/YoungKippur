@@ -7,6 +7,8 @@ Python Lover (❁´◡`❁)
 # I’m currently working on:
 * My [CHESS](https://github.com/YoungKippur/CHESS) repo.
 * My own [server](https://github.com/YoungKippur/Server-API) for hosting.
+* A [ROS robot](https://github.com/YoungKippur/NotNameBot).
 * Also in other things that I will upload soon.
 # How to reach me: 
+[Instagram](https://www.instagram.com/kippur._/)
 (Working on a portfolio) 
