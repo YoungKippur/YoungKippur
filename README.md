@@ -1,5 +1,4 @@
 ### Hi there ༼ つ ◕_◕ ༽つ
-![anya-forger-featured-640x360-1](https://user-images.githubusercontent.com/82680610/176462878-957538d7-f6fd-4bba-bbc4-95cc78f402ae.jpg)
 
 ![WhatsApp Image 2022-08-18 at 19 37 42](https://user-images.githubusercontent.com/82680610/185522056-785b8c23-3e0a-4900-b183-b42ba88726ee.jpeg)
 
