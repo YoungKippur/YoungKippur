@@ -12,5 +12,4 @@ Python Lover (❁´◡`❁)
 # How to reach me: 
 [Instagram](https://www.instagram.com/kippur._/)
 (Working on a portfolio) 
-#
-![34ed1783bb2ddd660686ac6a685270bf](https://user-images.githubusercontent.com/82680610/185523128-0f85d768-d221-41d6-bc81-879cb3d3a362.jpg)
+
