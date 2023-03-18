@@ -7,6 +7,6 @@ Python Lover (❁´◡`❁)
 # I’m currently working on:
 * A [ROS robot](https://github.com/YoungKippur/NotNameBot).
 # How to reach me: 
-[Instagram](https://www.instagram.com/kippur._/)
-(Working on a portfolio) 
+[My Portfolio](https://youngkippur.github.io/)
+
 
