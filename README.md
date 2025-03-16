@@ -5,9 +5,8 @@
 Python Lover (❁´◡`❁)
 
 # I’m currently working on:
-* A [ROS robot](https://github.com/YoungKippur/NotNameBot).
-* A robot arm using ROS MoveIt
-# How to reach me: 
+
 Here is [my Portfolio](https://youngkippur.github.io/) with all my social media.
+(Abandoned)
 
 
